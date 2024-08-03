@@ -3,7 +3,7 @@
 1. [ER - diagram](#er-diagram)
 2. [Description](#tables-description)
 
-## ER diagram
+## ER diagram [^1]
 ![](er-diagram.png)
 
 ## Tables Description
@@ -119,3 +119,5 @@ Each film can have one MPA rating, but each MPA rating can be associated with ma
 | 5  | NC-17 |
 
 </details>
+
+[^1]: [Peer Review Link](https://github.com/natalaly/er-diagram-filmorate/pull/1)
